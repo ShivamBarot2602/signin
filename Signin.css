@@ -285,7 +285,7 @@ input {
     }
 
     .swiper-container {
-        width: 700px !important;
+        width: 500px !important;
         height: 500px !important;
     }
 
@@ -293,7 +293,7 @@ input {
 
     .swiper-slide img {
         display: block;
-        width: 700px !important;
+        width: 500px !important;
         height: 500px !important;
         object-fit: cover;
     }
@@ -307,6 +307,9 @@ input {
         width: 70% !important;
         height: 550px !important;
 
+    }
+    .add{
+      margin-top: -150px;
     }
 
 }
@@ -330,15 +333,18 @@ input {
     }
 
     .swiper-container {
-        width: 450px !important;
-        height: 450px !important;
+        width: 393px !important;
+        height: 300px !important;
     }
 
     .swiper-slide img {
         display: block;
-        width: 450px !important;
-        height: 450px !important;
+        width: 393px !important;
+        height: 300px !important;
         object-fit: cover;
+    }
+    .add{
+      margin-top: -310px;
     }
 
     /*
